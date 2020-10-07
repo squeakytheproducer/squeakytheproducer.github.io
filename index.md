@@ -2,7 +2,7 @@
 
 You've entered the mind (website) of SQUEAKYTHEPRODUCER! Take a look around!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sadly, my new song with Yinte called "Lockdown" has been delayed until Friday 16th October 2020 :(
 
 ### Markdown
 
