@@ -2,7 +2,7 @@
 
 You've entered the mind (website) of SQUEAKYTHEPRODUCER! Take a look around!
 
-Sadly, my new song with Yinte called "Lockdown" has been delayed until Friday 16th October 2020 :(
+Sadly, my new song with Yinte called "Lockdown" has been delayed until Friday 16th October 2020 :(((
 
 ### Markdown
 
